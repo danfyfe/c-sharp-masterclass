@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wf61mfd2rWjNTvUNGfoiyPZ7sXNDakF9UqG5Pex5DcnV9qYXCheu24td4kChIQJLAdxgK0kU7W76/oc3FROdbw==",
+  "success": true,
+  "projectFilePath": "/Users/danfyfe/Development/Learnin/c-sharp-masterclass/11_Strings/11_Strings.csproj",
+  "expectedPackageFiles": [
+    "/Users/danfyfe/.nuget/packages/pdfpig/0.1.7/pdfpig.0.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

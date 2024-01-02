@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q73N6uf/X/jEZrVJR6CIMJ+nrUifYS/GouWRCGgtykRDUFmvam5JpiomO2FmkOx6xu7TNADu1IRDJueLupP+AA==",
+  "success": true,
+  "projectFilePath": "/Users/danfyfe/Development/Learnin/c-sharp-masterclass/11_TicketsDataAggregator/11_TicketsDataAggregator.csproj",
+  "expectedPackageFiles": [
+    "/Users/danfyfe/.nuget/packages/pdfpig/0.1.7/pdfpig.0.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
