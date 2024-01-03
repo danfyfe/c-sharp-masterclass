@@ -1,0 +1,15 @@
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/bin/Debug/net6.0/01_TodoList
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/bin/Debug/net6.0/01_TodoList.deps.json
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/bin/Debug/net6.0/01_TodoList.runtimeconfig.json
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/bin/Debug/net6.0/01_TodoList.dll
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/bin/Debug/net6.0/01_TodoList.pdb
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.csproj.AssemblyReference.cache
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.AssemblyInfoInputs.cache
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.AssemblyInfo.cs
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.csproj.CoreCompileInputs.cache
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.dll
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/refint/01_TodoList.dll
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.pdb
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/01_TodoList.genruntimeconfig.cache
+/Users/danfyfe/Development/Learnin/c-sharp-masterclass/01_TodoList/obj/Debug/net6.0/ref/01_TodoList.dll
